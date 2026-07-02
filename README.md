@@ -88,3 +88,8 @@ This dataset supports a wide range of analytical tasks, including:
 ## License
 
 This dataset is intended for educational, research, and portfolio purposes. Please verify the data and comply with your organization's data governance policies before using it in production environments.
+
+##Author
+Ranjani.G
+Github link:https://github.com/RanjaniVision
+Linkedin:https://www.linkedin.com/in/ranjanics/
